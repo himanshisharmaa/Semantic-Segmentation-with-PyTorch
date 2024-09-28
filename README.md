@@ -1,5 +1,5 @@
-Implementation of Semantic Segmentation with PyTorch usin Unet model.
+Implementation of Semantic Segmentation using the U-Net Model in PyTorch
 
-The dataset hase been taken from kaggle.
+The dataset has been taken from kaggle.
 
 Link: https://www.kaggle.com/datasets/rajkumarl/people-clothing-segmentation
